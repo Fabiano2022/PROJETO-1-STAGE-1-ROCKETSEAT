@@ -32,7 +32,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse foi o primeiro projeto realizado no curso Rocketseat Stage 2. Nesta aula, construímos esse projeto do zero e desenvolvemos: a apresentação e posição dos elementos, aplicação de cores e fontes, alinhamos textos e elementos, trabalhamos espaçamentos, bordas e classificações de elementos, utilizamos o codepen e utilizamos o github para enviar os projetos. 
+Esse foi o primeiro projeto realizado no curso Rocketseat Stage 2. Nessa aula, construímos esse projeto do zero utilizando o Figma. 
+1. Na aula 1 codificamos a estrutura inicial do nosso projeto passando por todos os elementos do HTML (head, meta e body);
+2. Na aula 2 começamos a exportar as imagens do Figma e estruturar o nosso projeto. Aprendemos sobre os elementos <div>, <img>, <h1>, <a>, e <p>. Além das propriedades src, href e id;
+3. Na aula 3 organizamos a posição dos nossos elementos respeitando a ordem do HTML e aprendemos sobre block e inline e acrescentamos mais dois novos elementos <span> e <strong>;
+4. Nessa aula aplicamos fontes customizadas e demos inicio a estilização do nosso projeto 01;
+5. Nessa aula começamos a dar cores ao textos do nosso projeto de acordo com o layout do Figma. Também aprendemos algumas propriedades do CSS: color, font-size, line-height, font-weight;
+6. Nessa aula começamos organizando nosso código CSS e depois alinhamos os textos e elementos da página utilizando as propriedades do CSS: text-align;
+7. Nessa aula fizemos alguns ajustes nos textos do nosso projeto e aprendemos como quebrar linhas e uma maneira de utilizar espaços;
+8. Nessa aula aprendemos sobre as propriedades margin do CSS, aplicamos o shorthand em um trecho de código e ajustamos os espaçamentos do nosso projeto;
+9. Nessa aula aprendemos como adicionar uma linha em nossa página com a propriedade border do CSS;
+10. Nessa aula aprendemos sobre posicionamento de elementos na página utilizando a propriedade position do CSS.
+
+
+
 
 ## 🔖 Layout
 
