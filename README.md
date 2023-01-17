@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse foi o primeiro projeto realizado no curso Rocketseat Stage 2. Nessa aula, construímos esse projeto do zero utilizando o Figma. 
 1. Na aula 1 codificamos a estrutura inicial do nosso projeto passando por todos os elementos do HTML (head, meta e body);
-2. Na aula 2 começamos a exportar as imagens do Figma e estruturar o nosso projeto. Aprendemos sobre os elementos <div>, <img>, <h1>, <a>, e <p>. Além das propriedades src, href e id;
+2. Na aula 2 começamos a exportar as imagens do Figma e estruturar o nosso projeto. Aprendemos sobre os elementos div, img, h1, a, e p. Além das propriedades src, href e id;
 3. Na aula 3 organizamos a posição dos nossos elementos respeitando a ordem do HTML e aprendemos sobre block e inline e acrescentamos mais dois novos elementos <span> e <strong>;
 4. Nessa aula aplicamos fontes customizadas e demos inicio a estilização do nosso projeto 01;
 5. Nessa aula começamos a dar cores ao textos do nosso projeto de acordo com o layout do Figma. Também aprendemos algumas propriedades do CSS: color, font-size, line-height, font-weight;
