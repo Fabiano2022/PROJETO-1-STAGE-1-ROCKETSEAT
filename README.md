@@ -1,7 +1,7 @@
-<h1 align="center"> Corrigindo Bugs.  </h1>
+<h1 align="center"> Primeiro Projeto  </h1>
 
 <p align="center">
-Projeto 1 realizado no curso Rocketseat/Ensino de tecnologias WEB/Turma 6.
+Projeto 1 realizado no curso Rocketseat/Ensino de tecnologias WEB/Turma 6 / Stage 2.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse foi o primeiro projeto realizado no curso Rocketseat Stage 2. Nesta aula, construímos esse projeto do zero e desenvolvemos a apresentação e posição dos elementos, aplicação de cores e fontes, alinhando textos e elementos, trabalhamos espaçamentos, bordas e classificações de elementos, utilizamos o codepen e  utilizamos o github para enviar os projetos. 
+Esse foi o primeiro projeto realizado no curso Rocketseat Stage 2. Nesta aula, construímos esse projeto do zero e desenvolvemos: a apresentação e posição dos elementos, aplicação de cores e fontes, alinhamos textos e elementos, trabalhamos espaçamentos, bordas e classificações de elementos, utilizamos o codepen e utilizamos o github para enviar os projetos. 
 
 ## 🔖 Layout
 
