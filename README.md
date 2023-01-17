@@ -32,8 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse desafio, recebi um código com o projeto desenvolvido durante as aulas da Fase 01.
-O código sofreu algumas alterações e utilizamos o que aprendemos durante a aula para acertar o Bug.
+Esse foi o primeiro projeto realizado no curso Rocketseat Stage 2. Nesta aula, construímos esse projeto do zero e desenvolvemos a apresentação e posição dos elementos, aplicação de cores e fontes, alinhando textos e elementos, trabalhamos espaçamentos, bordas e classificações de elementos, utilizamos o codepen e  utilizamos o github para enviar os projetos. 
 
 ## 🔖 Layout
 
